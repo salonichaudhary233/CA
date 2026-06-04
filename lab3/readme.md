@@ -140,10 +140,10 @@ The simulation verified that the single input signal was routed to the appropria
 ---
 
 #output
-![image](encoder.jpg)
+![image](encoder.png)
 encoder
 
-![image](decoder.jpg)
+![image](decoder.png)
 decoder
 
 
