@@ -1,10 +1,10 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
-entity MUX_TB is
-end entity MUX_TB;
+entity MUX_TB_1 is
+end entity MUX_TB_1;
 
-architecture Simulation of MUX_TB is
+architecture Simulation of MUX_TB_1 is
 
     signal D : STD_LOGIC_VECTOR(3 downto 0) := "1010";
     signal S : STD_LOGIC_VECTOR(1 downto 0) := "00";
